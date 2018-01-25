@@ -1,4 +1,5 @@
-#header-container {
+#header-container,
+#info-container {
   background-color: #99c84a;
   color: white;
 
@@ -28,4 +29,12 @@ input.form-control:focus {
 
 #search-bar {
   padding: 1em;
+}
+
+#productosCarousel img {
+  margin: 0 auto;/*superior e inferior, costados.*/
+}
+
+#info-container {
+padding: 1em 0;
 }
